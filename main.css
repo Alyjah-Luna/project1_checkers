@@ -1,0 +1,38 @@
+* {
+    box-sizing: border-box;
+}
+
+td {
+    background-color: tan;
+    width: 65px;
+    height: 65px;
+    text-align: center;
+}
+
+.noPiece {
+    background-color: antiquewhite;
+}
+
+.black {
+    width: 20px;
+    height: 20px;
+    padding: auto;
+    background-color: black;
+    border: 1px dashed gray;
+}
+
+.white {
+    width: 20px;
+    height: 20px;
+    padding: auto;
+    background-color: white;
+    border: 1px dashed gray;
+}
+
+.king.black {
+    background-color: slategray;
+}
+
+.king.white {
+    background-color: silver;
+}
