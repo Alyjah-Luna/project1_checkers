@@ -15,14 +15,26 @@
 
 <img width="230" alt="Screen Shot 2023-01-05 at 6 01 01 PM" src="https://user-images.githubusercontent.com/119822198/210896559-dac178a8-4310-4ea1-b4c5-d88cc3940f24.png">
 
-Once a piece makes it across, then that piece will become a "King" (You can have more than one king, once the second black piece moves to the end of the board then that too will become a king piece.)
+- Once a piece makes it across, then that piece will become a "King" (You can have more than one king, once the second black piece moves to the end of the board then that too will become a king piece.)
 
 <img width="436" alt="Screen Shot 2023-01-05 at 6 03 29 PM" src="https://user-images.githubusercontent.com/119822198/210897859-5ca928d3-5de1-4a8d-8fca-6eed66eac845.png">
 
-"Kings" are not limited to moving in only one direction, they can move both forward & back but still only allowed one space at a time.
+- "Kings" are not limited to moving in only one direction, they can move both forward & back but still only allowed one space at a time.
 
 
-The team with no more pieces loses.
+- The team with no more pieces loses.
 
 <img width="619" alt="Screen Shot 2023-01-05 at 6 14 55 PM" src="https://user-images.githubusercontent.com/119822198/210898148-bcf03463-ce55-4d90-8f99-6d873b421c44.png">
 
+ICEBOX ITEMS
+- Fixing the code for mobile devices, It worked when I was playing it on my phone last night up until a column became empty & then the column would shrink.
+- Make the pieces possible to jump over the opponent more than once if applicable
+- Fix up the CSS to make the game more presentable with more of a 3D appearance
+- Fix up the grammar & punctuation
+
+Technologies Used
+- HTML & CSS for the Board layout 
+- JavaScript for the functionality of the game play
+
+If you wish to play the game, below is a link. <br>
+https://alyjah-luna.github.io/project1_checkers/
